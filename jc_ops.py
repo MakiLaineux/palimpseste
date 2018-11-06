@@ -140,7 +140,7 @@ def create(message, net="testnet"):
         
     # OP_RETURN's output has zero amount  
     ZERO = Decimal("0.00000000")
-    FEE = Decimal("0.0005")
+    FEE = Decimal("0.0001")
     NB_MIN_CONFIRM = 6 # use only confirmed UTXOs 
 
     # search an utxo with enough amount 
