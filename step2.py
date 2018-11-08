@@ -8,8 +8,8 @@ import jc_ops
 import jc_tree
 import jc_util # for debug prints
 
-# NET : "testnet" or "mainnet"
-NET = "mainnet"
+# NET : "btc-testnet" or "btc-mainnet"
+NET = "btc-testnet"
 DEBUG = False
 start_time = time.time()
 
@@ -23,15 +23,17 @@ for tx in list_tx:
     (is_found, timest, confirm) = jc_ops.txinfo(tx, NET)
     print "Transaction : %s" % tx
     if is_found:
-        print "---timestamp = %d" % timest
-        print "---confirmations = %d" % confirm
-        if confirm >= 6:
+        print "---timestamp = %s" % timest
+        print "---confirmations = %s" % confirm
+        if confirm >= 3:
             print "ok"
-            jc_tree.update_step2(tx, timest, NET)
-            print("--- time : %s seconds" % (time.time() - start_time))
-
+            jc_tree.local_update_step2(tx, timest, NET)
     else:
         print "*** tx id not found in the blockchain"
     
+# update remote db for all ready  records 
+jc_tree.remote_update_step2(NET)
     
+print("--- total step2 time : %s seconds" % (time.time() - start_time))
+
 

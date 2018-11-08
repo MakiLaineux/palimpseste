@@ -27,9 +27,9 @@ def rpc_connect(net):
     rpc_password = "QuandLeCielBasEtLourdPeseCommeUnCouvercleSurLEspritGemissantEnProieAuxLongsEnnuis"
     # port 18332 for testnet, 8332 for mainnet
     try:
-        if net == "testnet":
+        if net == "btc-testnet":
             rpc = AuthServiceProxy("http://%s:%s@127.0.0.1:18332/" % (rpc_user, rpc_password))
-        elif net == "mainnet":
+        elif net == "btc-mainnet":
             rpc = AuthServiceProxy("http://%s:%s@127.0.0.1:8332/" % (rpc_user, rpc_password))
         else:
             sys.exit(jc_error.ERROR_INVALID_NETWORK)
@@ -37,7 +37,7 @@ def rpc_connect(net):
         sys.exit(jc_error.ERROR_RPC_CONNEXION)
     return rpc
 
-def gettxid(tx_raw, net="testnet"):
+def gettxid(tx_raw, net="btc-testnet"):
     rpc=rpc_connect(net)
     try:
         return(rpc.decoderawtransaction(tx_raw)["txid"])
@@ -68,7 +68,7 @@ def select_utxo(rpc, fee, confirm):
 # -------------------------------------------------------------------------------
 # checks the blockchain with a transaction id and returns validation info 
 # ------------------------------------------------------------------------------
-def txinfo(tx_id, net="testnet"):
+def txinfo(tx_id, net="btc-testnet"):
 
     # open rpc connexion
     rpc=rpc_connect(net)
@@ -76,7 +76,13 @@ def txinfo(tx_id, net="testnet"):
     # get transaction details 
     try:
         tx_info = rpc.gettransaction(tx_id)
-        return (True, tx_info["blocktime"], tx_info["confirmations"])
+        confirmations = tx_info["confirmations"]
+        print("confirmations : %d" % confirmations)
+        if confirmations <= 0:
+            return (True, "", confirmations)
+        else:
+            return (True, tx_info["blocktime"], confirmations)
+
     except:
         return (False, "", "")
 
@@ -85,7 +91,7 @@ def txinfo(tx_id, net="testnet"):
 #    needs txindex=1 in bitcoin.conf
 #    function returns tuple (success, message, timestamp, nb_confirmations)   
 # ------------------------------------------------------------------------------
-def retrieve(tx_id, net="testnet"):
+def retrieve(tx_id, net="btc-testnet"):
 
     # open rpc connexion
     rpc=rpc_connect(net)
@@ -121,7 +127,7 @@ def retrieve(tx_id, net="testnet"):
 # create and sign (but does not send) OP_RETURN transactionwith given string message
 #    message length is 40 bytes max
 # ------------------------------------------------------------------------------
-def create(message, net="testnet"):
+def create(message, net="btc-testnet"):
     print ("message length: "+str(len(message)))
     if len(message)==0 or len(message)>40:
         sys.exit(jc_error.ERROR_INVALID_MESSAGE_LENGTH)
@@ -131,7 +137,7 @@ def create(message, net="testnet"):
 
     # my bitcoin addresses for the change output
     # dummy address will later be owerwritten in the process  
-    if net=="testnet":
+    if net=="btc-testnet":
         ADDRESS_CHANGE = "mpFt9HiwiLpxBsxZWHVEY89AipPd5dj2SQ"
         dummy_address = "mfWxJ45yp2SFn7UciZyNpvDKrzbhyfKrY8"
     else:
@@ -178,7 +184,7 @@ def create(message, net="testnet"):
 # -------------------------------------------------------------------------------
 # send raw transaction
 # ------------------------------------------------------------------------------
-def sendrawtx(raw_tx, net="testnet"):
+def sendrawtx(raw_tx, net="btc-testnet"):
 
     if (len(raw_tx)> 540 or (len(raw_tx)< 400)):
         sys.exit(jc_error.ERROR_INVALID_RAW_TX_LENGTH+str(len(raw_tx)))

@@ -6,22 +6,24 @@ import MySQLdb # driver database
 
 import datetime
 import jc_error
-import jc_util  # fonctions jc
+import jc_util  # jc functions
+import json # to handle communication with remote server
+import requests # to handle communication with remote server
 
 ###############################################################################
-# functions handling MySQL bdd and trees of hashes
+# functions handling local MySQL db, remote server communication and trees of hashes
 #
-# JC Aout 2016
+# JC november 2018
 ###############################################################################
 
 
 def connect_db():
     try:
         db = MySQLdb.connect(host="localhost",    
-                     unix_socket="/var/run/mysqld/mysqld.sock", # adresse socket bdd xampp
+                     unix_socket="/var/run/mysqld/mysqld.sock", 
                      user="root",         #  username
                      passwd="mysqlroot2017",  # password
-                     db="proof")        # nom de la base
+                     db="proof")        # local db name
     except:
         sys.exit(jc_error.ERROR_DB_CONNEXION)
     return db
@@ -31,7 +33,7 @@ def get_submitted_tx():
         db = connect_db()
         cur = db.cursor() 
         # select requests with status "3" 
-        cur.execute("""SELECT DISTINCT txid FROM tbrequest WHERE status='3';""")
+        cur.execute("""SELECT DISTINCT txid FROM tbpalimpsest WHERE status='3';""")
         # storage of the results in a python list
         list_tx = []
         for row in cur.fetchall():
@@ -46,14 +48,14 @@ def get_submitted_tx():
 #         - "tree part" of the proof
 #         - id of the submitted OP_RETURN transaction 
 # ------------------------------------------------------------------------------
-def update_step1(list_requests, tx, net="testnet"):
+def update_step1(list_requests, tx, net="btc-testnet"):
     db = connect_db()
     k = 0     # index on original requests 
     while (k < len(list_requests)):
         print "Requete %d : %s" % (k, list_requests[k])
         cur = db.cursor()  
         cur.execute("""
-           UPDATE tbrequest
+           UPDATE tbpalimpsest
            SET status=%s, tree=%s, txid=%s
            WHERE id=%s;
         """, ("3", list_requests[k][2], tx, list_requests[k][0]))
@@ -62,22 +64,135 @@ def update_step1(list_requests, tx, net="testnet"):
     db.close()
 
 # -------------------------------------------------------------------------------
-# Update requests in bdd with :
+# Update requests in local bdd with :
 #         - status 4 ("ready") 
-#         - timestamp of th block
+#         - chain ("btc-testnet" or "btc-mainnet" for now) 
+#         - timestamp of the block
 # ------------------------------------------------------------------------------
-def update_step2(tx, time, net="testnet"):
+def local_update_step2(tx, time, net="btc-testnet"):
     date_string = datetime.datetime.utcfromtimestamp(time).strftime('%Y-%m-%d %H:%M:%S')
     db = connect_db()
     cur = db.cursor() 
     cur.execute("""
-           UPDATE tbrequest
-           SET status=%s, info=%s
+           UPDATE tbpalimpsest 
+           SET status=%s, chain=%s, info=%s 
            WHERE txid=%s;
-        """, ("4", date_string, tx))
+        """, ("4", net, date_string, tx))
+    db.commit()
+    db.close()
+    
+
+# -------------------------------------------------------------------------------
+# For all records with status 4 (ready), update remote db records with :
+#         - chain : the chain that was used
+#         - txid : the id of the blockchain transaction
+#         - tree : the merkle tree for this record
+#         - info : the block timestamp
+#         - status : 4 ("ready") 
+# If successful, update local status to 5 (finished)
+# ------------------------------------------------------------------------------
+def remote_update_step2(net="btc-testnet"):
+    # get all the records in local db with status 4
+    db = connect_db()
+    cur = db.cursor() 
+    list_record = []
+    try:
+        request_string = ("""SELECT DISTINCT id, chain, tree, info, txid, status FROM tbpalimpsest WHERE status='4';""")
+        cur.execute(request_string)
+        for row in cur.fetchall():
+            print(row)
+            list_record.append([row[0], row[1], row[2], row[3], row[4], row[5]])
+        k=0
+        while (k < len(list_record)):
+            print("id type : %s" % type(list_record[k][0]))
+            print("Record id: %s, chain:%s, tree:%s, info: %s, txid: %s, status: %s" % (
+                list_record[k][0], 
+                list_record[k][1], 
+                list_record[k][2], 
+                list_record[k][3], 
+                list_record[k][4], 
+                list_record[k][5], 
+            ))
+            k += 1
+            
+    except db.Error as e:
+            print("DB Error %s" % e)
+    except:
+        sys.exit(jc_error.ERROR_GET_RECORDS)
+        
+    # Update remote records and, if successfull, local status 
+    k = 0
+    while (k < len(list_record)):
+        try:
+            request_string = ("http://technoprimates.com/update_proof.php?"
+                "idrequest=%s&chain=%s&tree=%s&info=%s&txid=%s" 
+                % (str(list_record[k][0]), list_record[k][1], list_record[k][2], list_record[k][3], list_record[k][4]))
+            r = requests.get(request_string)
+            data = json.loads(r.text)
+            b = (long(data[0]['id']) == list_record[k][0])
+            if len(data) != 1:
+                sys.exit(jc_error.ERROR_INVALID_JSON_RESPONSE)
+            if data[0]['id'] != (str(list_record[k][0]).decode("utf-8")):
+                sys.exit(jc_error.ERROR_IDS_DONT_MATCH)
+            if data[0]['status'] != '4':
+                sys.exit(jc_error.ERROR_INVALID_REMOTE_STATUS)
+            # all is ok in remote server, update status to 5 in local db
+            txt = ("UPDATE tbpalimpsest SET status='5' WHERE id='%s';" % data[0]['id'])
+            cur.execute(txt)
+            print("Record %s updated with status 5" % data[0]['id']) 
+            k += 1
+        except db.Error as e:
+            print("DB Error %s" % e)
+            k += 1
+        except:
+            print("Remote query failed, status code : %s" % r.status_code)
+            k += 1
+            
     db.commit()
     db.close()
 
+    
+# -------------------------------------------------------------------------------
+# Insert requests in local db with :
+#         - id from remote db
+#         - hash from remote eb
+#         - status 2 ("downloaded") 
+# ------------------------------------------------------------------------------
+def insert_step1():
+    db = connect_db()
+    cur = db.cursor() 
+
+    print("--- Query remote server for requests")
+    try:
+        r = requests.get('http://technoprimates.com/list_status_2.php')
+        data = json.loads(r.text)
+        print("Remote query ok, Synchro date: %s, Number of requests: %s" % (data[0]['DateSynchro'], data[0]['NbEnr']))  
+
+    except:
+        print("Remote query failed")
+        return()
+
+    print("--- Remote requests")
+    k = 1 #index on list starting at second element
+    while (k < len(data)):
+        insertid = data[k]['id']
+        inserthash = data[k]['hash']
+        request = "INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;" 
+        val = (data[k]['id'], data[k]['hash'], " ", " ", " ", " ", "2")
+        try: 
+            cur = db.cursor()  
+            cur.execute(request, val)
+            print("remote query id=%s INSERT OK, hash: %s" % (data[k]['id'], data[k]['hash']))
+        except db.Error as e:
+            print("remote query id=%s DB Error %s :" % (data[k]['id'], e))
+        except:
+            print("Unknown error occured")
+    
+        k += 1
+
+    print("--- End of copy")
+    db.commit()
+    db.close()
 
 
 # -------------------------------------------------------------------------------
@@ -90,13 +205,13 @@ def tree():
     cur = db.cursor() # new cursor for request management 
 
     # select requests with status "2" 
-    cur.execute("""SELECT * FROM tbrequest WHERE status='2';""")
+    cur.execute("""SELECT * FROM tbpalimpsest WHERE status='2';""")
 
     # storage of the results in a python list
-    # 0:id, 3:hash, 4:tree
+    # 0:id, 1:hash, 2:tree
     tree_hashes = []
     for row in cur.fetchall():
-        tree_hashes.append([row[0],row[3],row[4]])
+        tree_hashes.append([row[0],row[1],row[2]])
 
     # add dummy rows until number of rows reaches 2**n
     NB_DEM = len(tree_hashes)

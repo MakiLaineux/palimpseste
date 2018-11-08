@@ -9,13 +9,16 @@ import jc_ops
 import jc_tree
 import jc_util # for debug prints
 
-# NET : "testnet" or "mainnet"
-NET = "mainnet"
+# NET : "btc-testnet" or "btc-mainnet"
+NET = "btc-testnet"
 DEBUG = False
 start_time = time.time()
 
 print "1: "
 print "net: "+NET
+
+# query remote db and insert new "status 2" requests in local db 
+jc_tree.insert_step1()
 
 # create a list containing the requests, each with its hash and the tree part of its proof 
 (list_requests, root_hash) = jc_tree.tree()
