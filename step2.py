@@ -8,11 +8,13 @@ import jc_ops
 import jc_tree
 import jc_util # for debug prints
 
+
 # NET : "btc-testnet" or "btc-mainnet"
 NET = "btc-testnet"
 DEBUG = False
-start_time = time.time()
+print("%s Step 2 started, net: %s" % (time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()), NET))
 
+start_time = time.time()
 
 # search in bdd for transactions "submitted" 
 list_tx = jc_tree.get_submitted_tx()
@@ -21,19 +23,17 @@ list_tx = jc_tree.get_submitted_tx()
 # if yes, update bdd with date of mining
 for tx in list_tx:
     (is_found, timest, confirm) = jc_ops.txinfo(tx, NET)
-    print "Transaction : %s" % tx
     if is_found:
-        print "---timestamp = %s" % timest
-        print "---confirmations = %s" % confirm
         if confirm >= 3:
-            print "ok"
+            print("--- confirmed tx : %s, confirmations : %s, timestamp = %s" % (tx, confirm, timest))
             jc_tree.local_update_step2(tx, timest, NET)
+        else:
+            print("--- pending tx : %s, confirmations : %s, timestamp = %s" % (tx, confirm, timest))
     else:
-        print "*** tx id not found in the blockchain"
+        print("*** tx id not found in the blockchain : %s" % tx)
     
 # update remote db for all ready  records 
-jc_tree.remote_update_step2(NET)
-    
-print("--- total step2 time : %s seconds" % (time.time() - start_time))
-
+nb_requests = jc_tree.remote_update_step2(NET)
+print("%s Step 2 completed, nb requests completed : %s, duration :%s seconds " % 
+      (time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()), nb_requests, round(time.time() - start_time, 3)))
 

@@ -77,7 +77,6 @@ def txinfo(tx_id, net="btc-testnet"):
     try:
         tx_info = rpc.gettransaction(tx_id)
         confirmations = tx_info["confirmations"]
-        print("confirmations : %d" % confirmations)
         if confirmations <= 0:
             return (True, "", confirmations)
         else:
@@ -128,7 +127,7 @@ def retrieve(tx_id, net="btc-testnet"):
 #    message length is 40 bytes max
 # ------------------------------------------------------------------------------
 def create(message, net="btc-testnet"):
-    print ("message length: "+str(len(message)))
+    #print ("message length: "+str(len(message)))
     if len(message)==0 or len(message)>40:
         sys.exit(jc_error.ERROR_INVALID_MESSAGE_LENGTH)
         

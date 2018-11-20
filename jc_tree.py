@@ -52,7 +52,7 @@ def update_step1(list_requests, tx, net="btc-testnet"):
     db = connect_db()
     k = 0     # index on original requests 
     while (k < len(list_requests)):
-        print "Requete %d : %s" % (k, list_requests[k])
+        #print "Requete %d : %s" % (k, list_requests[k])
         cur = db.cursor()  
         cur.execute("""
            UPDATE tbpalimpsest
@@ -92,6 +92,8 @@ def local_update_step2(tx, time, net="btc-testnet"):
 # If successful, update local status to 5 (finished)
 # ------------------------------------------------------------------------------
 def remote_update_step2(net="btc-testnet"):
+    # number of requests processed
+    nb_requests_processed = 0
     # get all the records in local db with status 4
     db = connect_db()
     cur = db.cursor() 
@@ -100,23 +102,17 @@ def remote_update_step2(net="btc-testnet"):
         request_string = ("""SELECT DISTINCT id, chain, tree, info, txid, status FROM tbpalimpsest WHERE status='4';""")
         cur.execute(request_string)
         for row in cur.fetchall():
-            print(row)
+            #print(row)
             list_record.append([row[0], row[1], row[2], row[3], row[4], row[5]])
         k=0
         while (k < len(list_record)):
-            print("id type : %s" % type(list_record[k][0]))
-            print("Record id: %s, chain:%s, tree:%s, info: %s, txid: %s, status: %s" % (
-                list_record[k][0], 
-                list_record[k][1], 
-                list_record[k][2], 
-                list_record[k][3], 
-                list_record[k][4], 
-                list_record[k][5], 
-            ))
+            #print("id type : %s" % type(list_record[k][0]))
+            #print("Record id: %s, chain:%s, tree:%s, info: %s, txid: %s, status: %s" % (list_record[k][0], list_record[k][1], list_record[k][2], list_record[k][3], 
+            #    list_record[k][4], list_record[k][5], ))
             k += 1
             
     except db.Error as e:
-            print("DB Error %s" % e)
+        print("DB Error %s" % e)
     except:
         sys.exit(jc_error.ERROR_GET_RECORDS)
         
@@ -139,40 +135,42 @@ def remote_update_step2(net="btc-testnet"):
             # all is ok in remote server, update status to 5 in local db
             txt = ("UPDATE tbpalimpsest SET status='5' WHERE id='%s';" % data[0]['id'])
             cur.execute(txt)
-            print("Record %s updated with status 5" % data[0]['id']) 
+            #print("Record %s updated with status 5" % data[0]['id']) 
             k += 1
+            nb_requests_processed +=1
         except db.Error as e:
-            print("DB Error %s" % e)
+            #print("DB Error %s" % e)
             k += 1
         except:
-            print("Remote query failed, status code : %s" % r.status_code)
+            #print("Remote query failed, status code : %s" % r.status_code)
             k += 1
             
     db.commit()
     db.close()
+    return (nb_requests_processed)
 
     
 # -------------------------------------------------------------------------------
 # Insert requests in local db with :
 #         - id from remote db
-#         - hash from remote eb
-#         - status 2 ("downloaded") 
+#         - hash from remote db
+#         - status 2 ("downloaded")
 # ------------------------------------------------------------------------------
 def insert_step1():
     db = connect_db()
     cur = db.cursor() 
 
-    print("--- Query remote server for requests")
+    #print("--- Query remote server for requests")
     try:
         r = requests.get('http://technoprimates.com/list_status_2.php')
         data = json.loads(r.text)
-        print("Remote query ok, Synchro date: %s, Number of requests: %s" % (data[0]['DateSynchro'], data[0]['NbEnr']))  
+        #print("Remote query ok, Synchro date: %s, Number of requests: %s" % (data[0]['DateSynchro'], data[0]['NbEnr']))  
 
     except:
-        print("Remote query failed")
+        #print("Remote query failed")
         return()
 
-    print("--- Remote requests")
+    #print("--- Remote requests")
     k = 1 #index on list starting at second element
     while (k < len(data)):
         insertid = data[k]['id']
@@ -182,15 +180,17 @@ def insert_step1():
         try: 
             cur = db.cursor()  
             cur.execute(request, val)
-            print("remote query id=%s INSERT OK, hash: %s" % (data[k]['id'], data[k]['hash']))
+            #print("remote query id=%s INSERT OK, hash: %s" % (data[k]['id'], data[k]['hash']))
         except db.Error as e:
-            print("remote query id=%s DB Error %s :" % (data[k]['id'], e))
+            # error may be 1062 (Duplicate entry) if the request was already processed, report only other Mysql errors 
+            if e[0] != 1062:
+                print("remote query id=%s DB Error [%d]: %s :" % (data[k]['id'], e[0], e[1]))
         except:
             print("Unknown error occured")
     
         k += 1
 
-    print("--- End of copy")
+    #print("--- End of copy")
     db.commit()
     db.close()
 
@@ -216,7 +216,7 @@ def tree():
     # add dummy rows until number of rows reaches 2**n
     NB_DEM = len(tree_hashes)
     if NB_DEM == 0:
-        sys.exit(jc_error.ERROR_NO_REQUESTS)
+        raise ValueError("no request to process")
     (tree_hashes, NB_TIERS) = jc_util.allongement(tree_hashes)
 
     # now we build the tree by appending "tiers" of rows 

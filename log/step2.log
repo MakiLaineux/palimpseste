@@ -1,0 +1,176 @@
+2018-11-19 20:14:01 Step 2 started, net: btc-testnet
+--- pending tx : 1b1ed6fb336f7f5fa35088b8e3f522466bdd9dcc861c153efbef45bf75797f36, confirmations : 2, timestamp = 1542657330
+2018-11-19 20:14:01 Step 2 completed, nb requests completed : 0, duration :0.004 seconds 
+2018-11-19 20:20:01 Step 2 started, net: btc-testnet
+--- pending tx : 1b1ed6fb336f7f5fa35088b8e3f522466bdd9dcc861c153efbef45bf75797f36, confirmations : 2, timestamp = 1542657330
+2018-11-19 20:20:01 Step 2 completed, nb requests completed : 0, duration :0.004 seconds 
+2018-11-19 20:30:01 Step 2 started, net: btc-testnet
+--- confirmed tx : 1b1ed6fb336f7f5fa35088b8e3f522466bdd9dcc861c153efbef45bf75797f36, confirmations : 3, timestamp = 1542657330
+2018-11-19 20:30:12 Step 2 completed, nb requests completed : 113, duration :11.68 seconds 
+2018-11-19 20:40:01 Step 2 started, net: btc-testnet
+2018-11-19 20:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 20:50:01 Step 2 started, net: btc-testnet
+2018-11-19 20:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 21:00:01 Step 2 started, net: btc-testnet
+2018-11-19 21:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 21:10:01 Step 2 started, net: btc-testnet
+--- confirmed tx : 671e0cca238f8c7243186b67f3c30c06625f4fc64c52b8f882bb95f97e44c7eb, confirmations : 3, timestamp = 1542661229
+2018-11-19 21:10:30 Step 2 completed, nb requests completed : 271, duration :29.359 seconds 
+2018-11-19 21:20:01 Step 2 started, net: btc-testnet
+2018-11-19 21:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 21:30:02 Step 2 started, net: btc-testnet
+2018-11-19 21:30:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 21:40:01 Step 2 started, net: btc-testnet
+2018-11-19 21:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 21:50:01 Step 2 started, net: btc-testnet
+2018-11-19 21:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:00:01 Step 2 started, net: btc-testnet
+2018-11-19 22:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:10:01 Step 2 started, net: btc-testnet
+2018-11-19 22:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:20:01 Step 2 started, net: btc-testnet
+2018-11-19 22:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:30:01 Step 2 started, net: btc-testnet
+2018-11-19 22:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:40:01 Step 2 started, net: btc-testnet
+2018-11-19 22:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 22:50:01 Step 2 started, net: btc-testnet
+2018-11-19 22:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:00:01 Step 2 started, net: btc-testnet
+2018-11-19 23:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:10:01 Step 2 started, net: btc-testnet
+2018-11-19 23:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:20:01 Step 2 started, net: btc-testnet
+2018-11-19 23:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:30:01 Step 2 started, net: btc-testnet
+2018-11-19 23:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:40:01 Step 2 started, net: btc-testnet
+2018-11-19 23:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-19 23:50:01 Step 2 started, net: btc-testnet
+2018-11-19 23:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:00:01 Step 2 started, net: btc-testnet
+2018-11-20 00:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:10:01 Step 2 started, net: btc-testnet
+2018-11-20 00:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:20:01 Step 2 started, net: btc-testnet
+2018-11-20 00:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:30:01 Step 2 started, net: btc-testnet
+2018-11-20 00:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:40:02 Step 2 started, net: btc-testnet
+2018-11-20 00:40:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 00:50:01 Step 2 started, net: btc-testnet
+2018-11-20 00:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:00:01 Step 2 started, net: btc-testnet
+2018-11-20 01:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:10:01 Step 2 started, net: btc-testnet
+2018-11-20 01:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:20:01 Step 2 started, net: btc-testnet
+2018-11-20 01:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:30:01 Step 2 started, net: btc-testnet
+2018-11-20 01:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:40:01 Step 2 started, net: btc-testnet
+2018-11-20 01:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 01:50:01 Step 2 started, net: btc-testnet
+2018-11-20 01:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:00:01 Step 2 started, net: btc-testnet
+2018-11-20 02:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:10:02 Step 2 started, net: btc-testnet
+2018-11-20 02:10:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:20:01 Step 2 started, net: btc-testnet
+2018-11-20 02:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:30:01 Step 2 started, net: btc-testnet
+2018-11-20 02:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:40:01 Step 2 started, net: btc-testnet
+2018-11-20 02:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 02:50:01 Step 2 started, net: btc-testnet
+2018-11-20 02:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:00:01 Step 2 started, net: btc-testnet
+2018-11-20 03:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:10:01 Step 2 started, net: btc-testnet
+2018-11-20 03:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:20:01 Step 2 started, net: btc-testnet
+2018-11-20 03:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:30:01 Step 2 started, net: btc-testnet
+2018-11-20 03:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:40:01 Step 2 started, net: btc-testnet
+2018-11-20 03:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 03:50:02 Step 2 started, net: btc-testnet
+2018-11-20 03:50:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:00:01 Step 2 started, net: btc-testnet
+2018-11-20 04:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:10:01 Step 2 started, net: btc-testnet
+2018-11-20 04:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:20:01 Step 2 started, net: btc-testnet
+2018-11-20 04:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:30:01 Step 2 started, net: btc-testnet
+2018-11-20 04:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:40:01 Step 2 started, net: btc-testnet
+2018-11-20 04:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 04:50:01 Step 2 started, net: btc-testnet
+2018-11-20 04:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:00:01 Step 2 started, net: btc-testnet
+2018-11-20 05:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:10:02 Step 2 started, net: btc-testnet
+2018-11-20 05:10:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:20:01 Step 2 started, net: btc-testnet
+2018-11-20 05:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:30:01 Step 2 started, net: btc-testnet
+2018-11-20 05:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:40:01 Step 2 started, net: btc-testnet
+2018-11-20 05:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 05:50:01 Step 2 started, net: btc-testnet
+2018-11-20 05:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:00:01 Step 2 started, net: btc-testnet
+2018-11-20 06:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:10:01 Step 2 started, net: btc-testnet
+2018-11-20 06:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:20:01 Step 2 started, net: btc-testnet
+2018-11-20 06:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:30:01 Step 2 started, net: btc-testnet
+2018-11-20 06:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:40:01 Step 2 started, net: btc-testnet
+2018-11-20 06:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 06:50:02 Step 2 started, net: btc-testnet
+2018-11-20 06:50:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:00:01 Step 2 started, net: btc-testnet
+2018-11-20 07:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:10:01 Step 2 started, net: btc-testnet
+2018-11-20 07:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:20:01 Step 2 started, net: btc-testnet
+2018-11-20 07:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:30:01 Step 2 started, net: btc-testnet
+2018-11-20 07:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:40:01 Step 2 started, net: btc-testnet
+2018-11-20 07:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 07:50:01 Step 2 started, net: btc-testnet
+2018-11-20 07:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:00:01 Step 2 started, net: btc-testnet
+2018-11-20 08:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:10:02 Step 2 started, net: btc-testnet
+2018-11-20 08:10:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:20:01 Step 2 started, net: btc-testnet
+2018-11-20 08:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:30:01 Step 2 started, net: btc-testnet
+2018-11-20 08:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:40:01 Step 2 started, net: btc-testnet
+2018-11-20 08:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 08:50:01 Step 2 started, net: btc-testnet
+2018-11-20 08:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:00:01 Step 2 started, net: btc-testnet
+2018-11-20 09:00:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:10:01 Step 2 started, net: btc-testnet
+2018-11-20 09:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:20:01 Step 2 started, net: btc-testnet
+2018-11-20 09:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:30:01 Step 2 started, net: btc-testnet
+2018-11-20 09:30:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:40:01 Step 2 started, net: btc-testnet
+2018-11-20 09:40:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 09:50:01 Step 2 started, net: btc-testnet
+2018-11-20 09:50:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 10:00:02 Step 2 started, net: btc-testnet
+2018-11-20 10:00:02 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 10:10:01 Step 2 started, net: btc-testnet
+2018-11-20 10:10:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
+2018-11-20 10:20:01 Step 2 started, net: btc-testnet
+2018-11-20 10:20:01 Step 2 completed, nb requests completed : 0, duration :0.003 seconds 
