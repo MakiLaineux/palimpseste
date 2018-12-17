@@ -180,7 +180,7 @@ def insert_step1():
         try: 
             cur = db.cursor()  
             cur.execute(request, val)
-            #print("remote query id=%s INSERT OK, hash: %s" % (data[k]['id'], data[k]['hash']))
+            print("remote query id=%s INSERT OK, hash: %s" % (data[k]['id'], data[k]['hash']))
         except db.Error as e:
             # error may be 1062 (Duplicate entry) if the request was already processed, report only other Mysql errors 
             if e[0] != 1062:

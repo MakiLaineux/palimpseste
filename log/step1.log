@@ -26,3 +26,1472 @@
 2018-11-20 09:00:01 Step 1 completed,  zero requests to handle
 2018-11-20 10:00:02 Step 1 started, net: btc-testnet
 2018-11-20 10:00:02 Step 1 completed,  zero requests to handle
+2018-11-20 11:00:01 Step 1 started, net: btc-testnet
+2018-11-20 11:00:01 Step 1 completed, nb requests : 13, tx : 036b872bc47f613c69cf2f2994d987ae7969cc2df733f804964aeb937a5feef7, duration :0.076 seconds 
+2018-11-20 12:00:01 Step 1 started, net: btc-testnet
+2018-11-20 12:00:01 Step 1 completed, nb requests : 3, tx : 5292a487d9ca339637a7fe9b9d2a86095e20406bda8e31cf7b23e145764e2080, duration :0.107 seconds 
+2018-11-20 13:00:01 Step 1 started, net: btc-testnet
+2018-11-20 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 14:00:01 Step 1 started, net: btc-testnet
+2018-11-20 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 15:00:01 Step 1 started, net: btc-testnet
+2018-11-20 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 16:00:01 Step 1 started, net: btc-testnet
+2018-11-20 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 17:00:01 Step 1 started, net: btc-testnet
+2018-11-20 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 18:00:01 Step 1 started, net: btc-testnet
+2018-11-20 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 19:00:02 Step 1 started, net: btc-testnet
+2018-11-20 19:00:02 Step 1 completed,  zero requests to handle
+2018-11-20 20:00:01 Step 1 started, net: btc-testnet
+2018-11-20 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 21:00:01 Step 1 started, net: btc-testnet
+2018-11-20 21:00:01 Step 1 completed, nb requests : 3, tx : 6597f576f1b6f22a588a1f3ef2304b1351def12e7f169cda14ebaa5e6b2e3a61, duration :0.179 seconds 
+2018-11-20 22:00:01 Step 1 started, net: btc-testnet
+2018-11-20 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-20 23:00:01 Step 1 started, net: btc-testnet
+2018-11-20 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 00:00:01 Step 1 started, net: btc-testnet
+2018-11-21 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 01:00:01 Step 1 started, net: btc-testnet
+2018-11-21 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 02:00:01 Step 1 started, net: btc-testnet
+2018-11-21 02:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 03:00:01 Step 1 started, net: btc-testnet
+2018-11-21 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 04:00:01 Step 1 started, net: btc-testnet
+2018-11-21 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 05:00:01 Step 1 started, net: btc-testnet
+2018-11-21 05:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 06:00:01 Step 1 started, net: btc-testnet
+2018-11-21 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 07:00:01 Step 1 started, net: btc-testnet
+2018-11-21 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 08:00:01 Step 1 started, net: btc-testnet
+2018-11-21 08:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 09:00:01 Step 1 started, net: btc-testnet
+2018-11-21 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 10:00:01 Step 1 started, net: btc-testnet
+2018-11-21 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 11:00:01 Step 1 started, net: btc-testnet
+2018-11-21 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 12:00:01 Step 1 started, net: btc-testnet
+2018-11-21 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 13:00:01 Step 1 started, net: btc-testnet
+2018-11-21 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 14:00:01 Step 1 started, net: btc-testnet
+2018-11-21 14:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 15:00:01 Step 1 started, net: btc-testnet
+2018-11-21 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 16:00:01 Step 1 started, net: btc-testnet
+2018-11-21 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 17:00:01 Step 1 started, net: btc-testnet
+2018-11-21 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 18:00:02 Step 1 started, net: btc-testnet
+2018-11-21 18:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 19:00:01 Step 1 started, net: btc-testnet
+2018-11-21 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 20:00:02 Step 1 started, net: btc-testnet
+2018-11-21 20:00:02 Step 1 completed,  zero requests to handle
+2018-11-21 21:00:01 Step 1 started, net: btc-testnet
+2018-11-21 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 22:00:01 Step 1 started, net: btc-testnet
+2018-11-21 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-21 23:00:01 Step 1 started, net: btc-testnet
+2018-11-21 23:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 00:00:01 Step 1 started, net: btc-testnet
+2018-11-22 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 01:00:01 Step 1 started, net: btc-testnet
+2018-11-22 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 02:00:01 Step 1 started, net: btc-testnet
+2018-11-22 02:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 03:00:01 Step 1 started, net: btc-testnet
+2018-11-22 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 04:00:01 Step 1 started, net: btc-testnet
+2018-11-22 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 05:00:01 Step 1 started, net: btc-testnet
+2018-11-22 05:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 06:00:01 Step 1 started, net: btc-testnet
+2018-11-22 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 07:00:01 Step 1 started, net: btc-testnet
+2018-11-22 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 08:00:01 Step 1 started, net: btc-testnet
+2018-11-22 08:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 09:00:01 Step 1 started, net: btc-testnet
+2018-11-22 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 10:00:02 Step 1 started, net: btc-testnet
+2018-11-22 10:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 11:00:01 Step 1 started, net: btc-testnet
+2018-11-22 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 12:00:01 Step 1 started, net: btc-testnet
+2018-11-22 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 13:00:01 Step 1 started, net: btc-testnet
+2018-11-22 13:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 14:00:01 Step 1 started, net: btc-testnet
+2018-11-22 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 15:00:01 Step 1 started, net: btc-testnet
+2018-11-22 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 16:00:01 Step 1 started, net: btc-testnet
+2018-11-22 16:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 17:00:01 Step 1 started, net: btc-testnet
+2018-11-22 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 18:00:01 Step 1 started, net: btc-testnet
+2018-11-22 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 19:00:01 Step 1 started, net: btc-testnet
+2018-11-22 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 20:00:01 Step 1 started, net: btc-testnet
+2018-11-22 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 21:00:02 Step 1 started, net: btc-testnet
+2018-11-22 21:00:02 Step 1 completed,  zero requests to handle
+2018-11-22 22:00:01 Step 1 started, net: btc-testnet
+2018-11-22 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-22 23:00:01 Step 1 started, net: btc-testnet
+2018-11-22 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 00:00:01 Step 1 started, net: btc-testnet
+2018-11-23 00:00:02 Step 1 completed,  zero requests to handle
+2018-11-23 01:00:01 Step 1 started, net: btc-testnet
+2018-11-23 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 02:00:01 Step 1 started, net: btc-testnet
+2018-11-23 02:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 03:00:01 Step 1 started, net: btc-testnet
+2018-11-23 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 04:00:01 Step 1 started, net: btc-testnet
+2018-11-23 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 05:00:01 Step 1 started, net: btc-testnet
+2018-11-23 05:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 06:00:01 Step 1 started, net: btc-testnet
+2018-11-23 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 07:00:01 Step 1 started, net: btc-testnet
+2018-11-23 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 08:00:02 Step 1 started, net: btc-testnet
+2018-11-23 08:00:02 Step 1 completed,  zero requests to handle
+2018-11-23 09:00:01 Step 1 started, net: btc-testnet
+2018-11-23 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 10:00:01 Step 1 started, net: btc-testnet
+2018-11-23 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 11:00:01 Step 1 started, net: btc-testnet
+2018-11-23 11:00:02 Step 1 completed, nb requests : 1, tx : dea02cee3cfb342a7a6fdccb9bbd4f348f61b86fbe391c3562946240daba5221, duration :0.16 seconds 
+2018-11-23 12:00:02 Step 1 started, net: btc-testnet
+2018-11-23 12:00:02 Step 1 completed,  zero requests to handle
+2018-11-23 13:00:01 Step 1 started, net: btc-testnet
+2018-11-23 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 14:00:01 Step 1 started, net: btc-testnet
+2018-11-23 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 15:00:01 Step 1 started, net: btc-testnet
+2018-11-23 15:00:02 Step 1 completed,  zero requests to handle
+2018-11-23 16:00:01 Step 1 started, net: btc-testnet
+2018-11-23 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 17:00:01 Step 1 started, net: btc-testnet
+2018-11-23 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 18:00:01 Step 1 started, net: btc-testnet
+2018-11-23 18:00:02 Step 1 completed,  zero requests to handle
+2018-11-23 19:00:01 Step 1 started, net: btc-testnet
+2018-11-23 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 20:00:01 Step 1 started, net: btc-testnet
+2018-11-23 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 21:00:01 Step 1 started, net: btc-testnet
+2018-11-23 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 22:00:01 Step 1 started, net: btc-testnet
+2018-11-23 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-23 23:00:01 Step 1 started, net: btc-testnet
+2018-11-23 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 00:00:01 Step 1 started, net: btc-testnet
+2018-11-24 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 01:00:01 Step 1 started, net: btc-testnet
+2018-11-24 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 02:00:02 Step 1 started, net: btc-testnet
+2018-11-24 02:00:02 Step 1 completed,  zero requests to handle
+2018-11-24 03:00:01 Step 1 started, net: btc-testnet
+2018-11-24 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 04:00:01 Step 1 started, net: btc-testnet
+2018-11-24 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 05:00:01 Step 1 started, net: btc-testnet
+2018-11-24 05:00:02 Step 1 completed,  zero requests to handle
+2018-11-24 06:00:01 Step 1 started, net: btc-testnet
+2018-11-24 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 07:00:01 Step 1 started, net: btc-testnet
+2018-11-24 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 08:00:01 Step 1 started, net: btc-testnet
+2018-11-24 08:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 09:00:01 Step 1 started, net: btc-testnet
+2018-11-24 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 10:00:01 Step 1 started, net: btc-testnet
+2018-11-24 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 11:00:01 Step 1 started, net: btc-testnet
+2018-11-24 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 12:00:01 Step 1 started, net: btc-testnet
+2018-11-24 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 13:00:01 Step 1 started, net: btc-testnet
+2018-11-24 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 14:00:01 Step 1 started, net: btc-testnet
+2018-11-24 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 15:00:01 Step 1 started, net: btc-testnet
+2018-11-24 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 16:00:01 Step 1 started, net: btc-testnet
+2018-11-24 16:00:02 Step 1 completed,  zero requests to handle
+2018-11-24 17:00:01 Step 1 started, net: btc-testnet
+2018-11-24 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 18:00:01 Step 1 started, net: btc-testnet
+2018-11-24 18:00:01 Step 1 completed, nb requests : 2, tx : 320560298cfa706b24f04b642677a8a9f55cf2de8b1bd623b85df7924345e6ad, duration :0.142 seconds 
+2018-11-24 19:00:01 Step 1 started, net: btc-testnet
+2018-11-24 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 20:00:02 Step 1 started, net: btc-testnet
+2018-11-24 20:00:02 Step 1 completed,  zero requests to handle
+2018-11-24 21:00:01 Step 1 started, net: btc-testnet
+2018-11-24 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 22:00:01 Step 1 started, net: btc-testnet
+2018-11-24 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-24 23:00:01 Step 1 started, net: btc-testnet
+2018-11-24 23:00:02 Step 1 completed,  zero requests to handle
+2018-11-25 00:00:01 Step 1 started, net: btc-testnet
+2018-11-25 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 09:00:01 Step 1 started, net: btc-testnet
+2018-11-25 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 10:00:01 Step 1 started, net: btc-testnet
+2018-11-25 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 11:00:01 Step 1 started, net: btc-testnet
+2018-11-25 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 12:00:01 Step 1 started, net: btc-testnet
+2018-11-25 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 13:00:01 Step 1 started, net: btc-testnet
+2018-11-25 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 14:00:02 Step 1 started, net: btc-testnet
+2018-11-25 14:00:02 Step 1 completed,  zero requests to handle
+2018-11-25 15:00:01 Step 1 started, net: btc-testnet
+2018-11-25 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 16:00:01 Step 1 started, net: btc-testnet
+2018-11-25 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 17:00:02 Step 1 started, net: btc-testnet
+2018-11-25 17:00:02 Step 1 completed,  zero requests to handle
+2018-11-25 18:00:01 Step 1 started, net: btc-testnet
+2018-11-25 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 19:00:01 Step 1 started, net: btc-testnet
+2018-11-25 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-25 20:00:01 Step 1 started, net: btc-testnet
+2018-11-25 20:00:02 Step 1 completed,  zero requests to handle
+2018-11-25 21:00:01 Step 1 started, net: btc-testnet
+2018-11-25 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 11:00:01 Step 1 started, net: btc-testnet
+2018-11-26 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 12:00:01 Step 1 started, net: btc-testnet
+2018-11-26 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 13:00:01 Step 1 started, net: btc-testnet
+2018-11-26 13:00:02 Step 1 completed,  zero requests to handle
+2018-11-26 14:00:01 Step 1 started, net: btc-testnet
+2018-11-26 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 15:00:01 Step 1 started, net: btc-testnet
+2018-11-26 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 16:00:01 Step 1 started, net: btc-testnet
+2018-11-26 16:00:02 Step 1 completed,  zero requests to handle
+2018-11-26 17:00:01 Step 1 started, net: btc-testnet
+2018-11-26 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 18:00:01 Step 1 started, net: btc-testnet
+2018-11-26 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 19:00:01 Step 1 started, net: btc-testnet
+2018-11-26 19:00:02 Step 1 completed,  zero requests to handle
+2018-11-26 20:00:01 Step 1 started, net: btc-testnet
+2018-11-26 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 21:00:01 Step 1 started, net: btc-testnet
+2018-11-26 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 22:00:01 Step 1 started, net: btc-testnet
+2018-11-26 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-26 23:00:01 Step 1 started, net: btc-testnet
+2018-11-26 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 00:00:01 Step 1 started, net: btc-testnet
+2018-11-27 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 01:00:01 Step 1 started, net: btc-testnet
+2018-11-27 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 02:00:01 Step 1 started, net: btc-testnet
+2018-11-27 02:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 03:00:01 Step 1 started, net: btc-testnet
+2018-11-27 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 04:00:02 Step 1 started, net: btc-testnet
+2018-11-27 04:00:02 Step 1 completed,  zero requests to handle
+2018-11-27 05:00:01 Step 1 started, net: btc-testnet
+2018-11-27 05:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 06:00:01 Step 1 started, net: btc-testnet
+2018-11-27 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 07:00:01 Step 1 started, net: btc-testnet
+2018-11-27 07:00:02 Step 1 completed,  zero requests to handle
+2018-11-27 08:00:01 Step 1 started, net: btc-testnet
+2018-11-27 08:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 09:00:01 Step 1 started, net: btc-testnet
+2018-11-27 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 10:00:01 Step 1 started, net: btc-testnet
+2018-11-27 10:00:02 Step 1 completed,  zero requests to handle
+2018-11-27 11:00:01 Step 1 started, net: btc-testnet
+2018-11-27 11:00:01 Step 1 completed, nb requests : 1, tx : 68c8f78152b40814ed7a379a347accb263e4a71e7e31dacd080762567db62b64, duration :0.079 seconds 
+2018-11-27 12:00:01 Step 1 started, net: btc-testnet
+2018-11-27 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 13:00:01 Step 1 started, net: btc-testnet
+2018-11-27 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 14:00:01 Step 1 started, net: btc-testnet
+2018-11-27 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 15:00:01 Step 1 started, net: btc-testnet
+2018-11-27 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 16:00:01 Step 1 started, net: btc-testnet
+2018-11-27 16:00:01 Step 1 completed, nb requests : 1, tx : 87f91435004ed631d6fe0d1c7f7baed041f514da0ebcdc3800fd24c0e5bf7b87, duration :0.146 seconds 
+2018-11-27 17:00:01 Step 1 started, net: btc-testnet
+2018-11-27 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 18:00:01 Step 1 started, net: btc-testnet
+2018-11-27 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 19:00:01 Step 1 started, net: btc-testnet
+2018-11-27 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 20:00:01 Step 1 started, net: btc-testnet
+2018-11-27 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 21:00:01 Step 1 started, net: btc-testnet
+2018-11-27 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-27 22:00:01 Step 1 started, net: btc-testnet
+2018-11-27 22:00:01 Step 1 completed, nb requests : 1, tx : a6ad75a233380d032952fdbec8bd48d4e03b703111552d9cd573ba8ebf4a56ce, duration :0.07 seconds 
+2018-11-27 23:00:01 Step 1 started, net: btc-testnet
+2018-11-27 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 00:00:01 Step 1 started, net: btc-testnet
+2018-11-28 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 01:00:01 Step 1 started, net: btc-testnet
+2018-11-28 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 02:00:01 Step 1 started, net: btc-testnet
+2018-11-28 02:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 03:00:01 Step 1 started, net: btc-testnet
+2018-11-28 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 04:00:01 Step 1 started, net: btc-testnet
+2018-11-28 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 05:00:02 Step 1 started, net: btc-testnet
+2018-11-28 05:00:02 Step 1 completed,  zero requests to handle
+2018-11-28 06:00:01 Step 1 started, net: btc-testnet
+2018-11-28 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 07:00:01 Step 1 started, net: btc-testnet
+2018-11-28 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 08:00:01 Step 1 started, net: btc-testnet
+2018-11-28 08:00:02 Step 1 completed,  zero requests to handle
+2018-11-28 09:00:01 Step 1 started, net: btc-testnet
+2018-11-28 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 10:00:01 Step 1 started, net: btc-testnet
+2018-11-28 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 11:00:01 Step 1 started, net: btc-testnet
+2018-11-28 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 12:00:01 Step 1 started, net: btc-testnet
+2018-11-28 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 13:00:01 Step 1 started, net: btc-testnet
+2018-11-28 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 14:00:01 Step 1 started, net: btc-testnet
+2018-11-28 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 15:00:01 Step 1 started, net: btc-testnet
+2018-11-28 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 16:00:01 Step 1 started, net: btc-testnet
+2018-11-28 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 17:00:01 Step 1 started, net: btc-testnet
+2018-11-28 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 18:00:01 Step 1 started, net: btc-testnet
+2018-11-28 18:00:02 Step 1 completed,  zero requests to handle
+2018-11-28 19:00:01 Step 1 started, net: btc-testnet
+2018-11-28 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 20:00:01 Step 1 started, net: btc-testnet
+2018-11-28 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 21:00:01 Step 1 started, net: btc-testnet
+2018-11-28 21:00:02 Step 1 completed,  zero requests to handle
+2018-11-28 22:00:01 Step 1 started, net: btc-testnet
+2018-11-28 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-28 23:00:01 Step 1 started, net: btc-testnet
+2018-11-28 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 00:00:01 Step 1 started, net: btc-testnet
+2018-11-29 00:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 01:00:01 Step 1 started, net: btc-testnet
+2018-11-29 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 02:00:01 Step 1 started, net: btc-testnet
+2018-11-29 02:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 03:00:01 Step 1 started, net: btc-testnet
+2018-11-29 03:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 04:00:01 Step 1 started, net: btc-testnet
+2018-11-29 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 05:00:01 Step 1 started, net: btc-testnet
+2018-11-29 05:00:02 Step 1 completed,  zero requests to handle
+2018-11-29 06:00:01 Step 1 started, net: btc-testnet
+2018-11-29 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 07:00:01 Step 1 started, net: btc-testnet
+2018-11-29 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 08:00:01 Step 1 started, net: btc-testnet
+2018-11-29 08:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 09:00:01 Step 1 started, net: btc-testnet
+2018-11-29 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 10:00:01 Step 1 started, net: btc-testnet
+2018-11-29 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 11:00:01 Step 1 started, net: btc-testnet
+2018-11-29 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 12:00:01 Step 1 started, net: btc-testnet
+2018-11-29 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 13:00:01 Step 1 started, net: btc-testnet
+2018-11-29 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 14:00:01 Step 1 started, net: btc-testnet
+2018-11-29 14:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 15:00:01 Step 1 started, net: btc-testnet
+2018-11-29 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 16:00:02 Step 1 started, net: btc-testnet
+2018-11-29 16:00:02 Step 1 completed,  zero requests to handle
+2018-11-29 17:00:01 Step 1 started, net: btc-testnet
+2018-11-29 17:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 18:00:01 Step 1 started, net: btc-testnet
+2018-11-29 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 19:00:01 Step 1 started, net: btc-testnet
+2018-11-29 19:00:02 Step 1 completed,  zero requests to handle
+2018-11-29 20:00:01 Step 1 started, net: btc-testnet
+2018-11-29 20:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 21:00:02 Step 1 started, net: btc-testnet
+2018-11-29 21:00:02 Step 1 completed,  zero requests to handle
+2018-11-29 22:00:01 Step 1 started, net: btc-testnet
+2018-11-29 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-29 23:00:01 Step 1 started, net: btc-testnet
+2018-11-29 23:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 00:00:01 Step 1 started, net: btc-testnet
+2018-11-30 00:00:02 Step 1 completed,  zero requests to handle
+2018-11-30 01:00:01 Step 1 started, net: btc-testnet
+2018-11-30 01:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 02:00:01 Step 1 started, net: btc-testnet
+2018-11-30 02:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 03:00:01 Step 1 started, net: btc-testnet
+2018-11-30 03:00:02 Step 1 completed,  zero requests to handle
+2018-11-30 04:00:01 Step 1 started, net: btc-testnet
+2018-11-30 04:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 05:00:01 Step 1 started, net: btc-testnet
+2018-11-30 05:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 06:00:01 Step 1 started, net: btc-testnet
+2018-11-30 06:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 07:00:01 Step 1 started, net: btc-testnet
+2018-11-30 07:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 08:00:01 Step 1 started, net: btc-testnet
+2018-11-30 08:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 09:00:01 Step 1 started, net: btc-testnet
+2018-11-30 09:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 10:00:01 Step 1 started, net: btc-testnet
+2018-11-30 10:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 11:00:01 Step 1 started, net: btc-testnet
+2018-11-30 11:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 12:00:01 Step 1 started, net: btc-testnet
+2018-11-30 12:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 13:00:01 Step 1 started, net: btc-testnet
+2018-11-30 13:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 14:00:02 Step 1 started, net: btc-testnet
+2018-11-30 14:00:02 Step 1 completed,  zero requests to handle
+2018-11-30 15:00:01 Step 1 started, net: btc-testnet
+2018-11-30 15:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 16:00:01 Step 1 started, net: btc-testnet
+2018-11-30 16:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 17:00:02 Step 1 started, net: btc-testnet
+2018-11-30 17:00:02 Step 1 completed,  zero requests to handle
+2018-11-30 18:00:01 Step 1 started, net: btc-testnet
+2018-11-30 18:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 19:00:01 Step 1 started, net: btc-testnet
+2018-11-30 19:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 20:00:02 Step 1 started, net: btc-testnet
+2018-11-30 20:00:02 Step 1 completed,  zero requests to handle
+2018-11-30 21:00:01 Step 1 started, net: btc-testnet
+2018-11-30 21:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 22:00:01 Step 1 started, net: btc-testnet
+2018-11-30 22:00:01 Step 1 completed,  zero requests to handle
+2018-11-30 23:00:02 Step 1 started, net: btc-testnet
+2018-11-30 23:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 00:00:01 Step 1 started, net: btc-testnet
+2018-12-01 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 01:00:01 Step 1 started, net: btc-testnet
+2018-12-01 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 02:00:01 Step 1 started, net: btc-testnet
+2018-12-01 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 03:00:01 Step 1 started, net: btc-testnet
+2018-12-01 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 04:00:01 Step 1 started, net: btc-testnet
+2018-12-01 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 05:00:01 Step 1 started, net: btc-testnet
+2018-12-01 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 06:00:01 Step 1 started, net: btc-testnet
+2018-12-01 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 07:00:02 Step 1 started, net: btc-testnet
+2018-12-01 07:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 08:00:01 Step 1 started, net: btc-testnet
+2018-12-01 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 09:00:01 Step 1 started, net: btc-testnet
+2018-12-01 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 10:00:02 Step 1 started, net: btc-testnet
+2018-12-01 10:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 11:00:01 Step 1 started, net: btc-testnet
+2018-12-01 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 12:00:01 Step 1 started, net: btc-testnet
+2018-12-01 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 13:00:02 Step 1 started, net: btc-testnet
+2018-12-01 13:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 14:00:01 Step 1 started, net: btc-testnet
+2018-12-01 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 15:00:01 Step 1 started, net: btc-testnet
+2018-12-01 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 16:00:01 Step 1 started, net: btc-testnet
+2018-12-01 16:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 17:00:01 Step 1 started, net: btc-testnet
+2018-12-01 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 18:00:01 Step 1 started, net: btc-testnet
+2018-12-01 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 19:00:01 Step 1 started, net: btc-testnet
+2018-12-01 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 20:00:01 Step 1 started, net: btc-testnet
+2018-12-01 20:00:02 Step 1 completed,  zero requests to handle
+2018-12-01 21:00:01 Step 1 started, net: btc-testnet
+2018-12-01 21:00:01 Step 1 completed, nb requests : 1, tx : fc121ed99f4944aa88c3c72c1bef2380336fe5a71c609845153c70e9580b2d0e, duration :0.122 seconds 
+2018-12-01 22:00:01 Step 1 started, net: btc-testnet
+2018-12-01 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-01 23:00:01 Step 1 started, net: btc-testnet
+2018-12-01 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 00:00:01 Step 1 started, net: btc-testnet
+2018-12-02 00:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 01:00:01 Step 1 started, net: btc-testnet
+2018-12-02 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 02:00:01 Step 1 started, net: btc-testnet
+2018-12-02 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 03:00:01 Step 1 started, net: btc-testnet
+2018-12-02 03:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 04:00:01 Step 1 started, net: btc-testnet
+2018-12-02 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 05:00:01 Step 1 started, net: btc-testnet
+2018-12-02 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 06:00:01 Step 1 started, net: btc-testnet
+2018-12-02 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 07:00:01 Step 1 started, net: btc-testnet
+2018-12-02 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 08:00:01 Step 1 started, net: btc-testnet
+2018-12-02 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 09:00:02 Step 1 started, net: btc-testnet
+2018-12-02 09:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 10:00:01 Step 1 started, net: btc-testnet
+2018-12-02 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 11:00:01 Step 1 started, net: btc-testnet
+2018-12-02 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 12:00:02 Step 1 started, net: btc-testnet
+2018-12-02 12:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 13:00:01 Step 1 started, net: btc-testnet
+2018-12-02 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 14:00:01 Step 1 started, net: btc-testnet
+2018-12-02 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 15:00:01 Step 1 started, net: btc-testnet
+2018-12-02 15:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 16:00:01 Step 1 started, net: btc-testnet
+2018-12-02 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 17:00:01 Step 1 started, net: btc-testnet
+2018-12-02 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 18:00:01 Step 1 started, net: btc-testnet
+2018-12-02 18:00:02 Step 1 completed,  zero requests to handle
+2018-12-02 19:00:01 Step 1 started, net: btc-testnet
+2018-12-02 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 20:00:01 Step 1 started, net: btc-testnet
+2018-12-02 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 21:00:01 Step 1 started, net: btc-testnet
+2018-12-02 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 22:00:01 Step 1 started, net: btc-testnet
+2018-12-02 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-02 23:00:02 Step 1 started, net: btc-testnet
+2018-12-02 23:00:02 Step 1 completed,  zero requests to handle
+2018-12-03 00:00:01 Step 1 started, net: btc-testnet
+2018-12-03 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 01:00:01 Step 1 started, net: btc-testnet
+2018-12-03 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 02:00:01 Step 1 started, net: btc-testnet
+2018-12-03 02:00:02 Step 1 completed,  zero requests to handle
+2018-12-03 03:00:01 Step 1 started, net: btc-testnet
+2018-12-03 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 04:00:01 Step 1 started, net: btc-testnet
+2018-12-03 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 05:00:01 Step 1 started, net: btc-testnet
+2018-12-03 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 06:00:01 Step 1 started, net: btc-testnet
+2018-12-03 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 07:00:01 Step 1 started, net: btc-testnet
+2018-12-03 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 08:00:01 Step 1 started, net: btc-testnet
+2018-12-03 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 09:00:01 Step 1 started, net: btc-testnet
+2018-12-03 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 10:00:01 Step 1 started, net: btc-testnet
+2018-12-03 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 11:00:01 Step 1 started, net: btc-testnet
+2018-12-03 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 12:00:01 Step 1 started, net: btc-testnet
+2018-12-03 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 13:00:01 Step 1 started, net: btc-testnet
+2018-12-03 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 14:00:01 Step 1 started, net: btc-testnet
+2018-12-03 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 15:00:01 Step 1 started, net: btc-testnet
+2018-12-03 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 16:00:01 Step 1 started, net: btc-testnet
+2018-12-03 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 17:00:01 Step 1 started, net: btc-testnet
+2018-12-03 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 18:00:01 Step 1 started, net: btc-testnet
+2018-12-03 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 19:00:01 Step 1 started, net: btc-testnet
+2018-12-03 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 20:00:02 Step 1 started, net: btc-testnet
+2018-12-03 20:00:02 Step 1 completed,  zero requests to handle
+2018-12-03 21:00:01 Step 1 started, net: btc-testnet
+2018-12-03 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 22:00:01 Step 1 started, net: btc-testnet
+2018-12-03 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-03 23:00:01 Step 1 started, net: btc-testnet
+2018-12-03 23:00:02 Step 1 completed,  zero requests to handle
+2018-12-04 00:00:01 Step 1 started, net: btc-testnet
+2018-12-04 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 01:00:01 Step 1 started, net: btc-testnet
+2018-12-04 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 02:00:01 Step 1 started, net: btc-testnet
+2018-12-04 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 03:00:01 Step 1 started, net: btc-testnet
+2018-12-04 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 04:00:01 Step 1 started, net: btc-testnet
+2018-12-04 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 05:00:01 Step 1 started, net: btc-testnet
+2018-12-04 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 06:00:01 Step 1 started, net: btc-testnet
+2018-12-04 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 07:00:02 Step 1 started, net: btc-testnet
+2018-12-04 07:00:02 Step 1 completed,  zero requests to handle
+2018-12-04 08:00:01 Step 1 started, net: btc-testnet
+2018-12-04 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 09:00:01 Step 1 started, net: btc-testnet
+2018-12-04 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 10:00:01 Step 1 started, net: btc-testnet
+2018-12-04 10:00:02 Step 1 completed,  zero requests to handle
+2018-12-04 11:00:01 Step 1 started, net: btc-testnet
+2018-12-04 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 12:00:01 Step 1 started, net: btc-testnet
+2018-12-04 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 13:00:01 Step 1 started, net: btc-testnet
+2018-12-04 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 14:00:01 Step 1 started, net: btc-testnet
+2018-12-04 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 15:00:01 Step 1 started, net: btc-testnet
+2018-12-04 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 16:00:01 Step 1 started, net: btc-testnet
+2018-12-04 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 17:00:01 Step 1 started, net: btc-testnet
+2018-12-04 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 18:00:02 Step 1 started, net: btc-testnet
+2018-12-04 18:00:02 Step 1 completed,  zero requests to handle
+2018-12-04 19:00:01 Step 1 started, net: btc-testnet
+2018-12-04 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 20:00:01 Step 1 started, net: btc-testnet
+2018-12-04 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 21:00:02 Step 1 started, net: btc-testnet
+2018-12-04 21:00:02 Step 1 completed,  zero requests to handle
+2018-12-04 22:00:01 Step 1 started, net: btc-testnet
+2018-12-04 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-04 23:00:01 Step 1 started, net: btc-testnet
+2018-12-04 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 00:00:01 Step 1 started, net: btc-testnet
+2018-12-05 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 01:00:01 Step 1 started, net: btc-testnet
+2018-12-05 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 02:00:01 Step 1 started, net: btc-testnet
+2018-12-05 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 03:00:01 Step 1 started, net: btc-testnet
+2018-12-05 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 04:00:01 Step 1 started, net: btc-testnet
+2018-12-05 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 05:00:01 Step 1 started, net: btc-testnet
+2018-12-05 05:00:02 Step 1 completed,  zero requests to handle
+2018-12-05 06:00:01 Step 1 started, net: btc-testnet
+2018-12-05 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 07:00:01 Step 1 started, net: btc-testnet
+2018-12-05 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 08:00:01 Step 1 started, net: btc-testnet
+2018-12-05 08:00:02 Step 1 completed,  zero requests to handle
+2018-12-05 09:00:01 Step 1 started, net: btc-testnet
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'1', u'03-Dec-2018', ' ', ' ', ' ', ' ', '2')
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'2', u'cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6', ' ', ' ', ' ', ' ', '2')
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'3', u'cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6', ' ', ' ', ' ', ' ', '2')
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'4', u'9ab436679a56acc3ec4e42ba526918fca7cae15d5c95813b3e7d80c99f09b0d3', ' ', ' ', ' ', ' ', '2')
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'5', u'cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6', ' ', ' ', ' ', ' ', '2')
+request : INSERT INTO tbpalimpsest (id, hash, tree, chain, txid, info, status) VALUES (%s, %s, %s, %s, %s, %s, %s) ;, val : (u'6', u'cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6', ' ', ' ', ' ', ' ', '2')
+2018-12-05 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 10:00:01 Step 1 started, net: btc-testnet
+remote query id=7 INSERT OK, hash: 86a998f68f582a924f7bb2bf90784e181f82264a3a8695f45ab77c9242bb8435
+remote query id=8 INSERT OK, hash: 040aa90f9cb4fd0073d1d0f70d07bee45a982aefaaea50af9869c87af56cf44c
+remote query id=9 INSERT OK, hash: 7e0cd6dc80d672853a75cdc488573038d40309a52fc03a4f2befb654b0806c3f
+remote query id=10 INSERT OK, hash: d8be1a6f399db023a850027dcfd0c381f822edbdcdea50b0e4b2d977ada58583
+remote query id=11 INSERT OK, hash: 9ab436679a56acc3ec4e42ba526918fca7cae15d5c95813b3e7d80c99f09b0d3
+remote query id=12 INSERT OK, hash: d79192336a75dac75ebf6c25c0bc4162b6c6be24775a9fa220f821cad604a57a
+remote query id=13 INSERT OK, hash: 030b361bf80adc9ecbae930c10d49873ac1ee98427b8b64de22962f6219af18b
+2018-12-05 10:00:02 Step 1 completed, nb requests : 7, tx : de6d0207f7128d3e0eb0fa1cb9cf59215e647576c1ce7f107aa7328a98ce87b6, duration :0.078 seconds 
+2018-12-05 11:00:01 Step 1 started, net: btc-testnet
+2018-12-05 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 12:00:01 Step 1 started, net: btc-testnet
+2018-12-05 12:00:02 Step 1 completed,  zero requests to handle
+2018-12-05 13:00:01 Step 1 started, net: btc-testnet
+2018-12-05 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 14:00:01 Step 1 started, net: btc-testnet
+2018-12-05 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 15:00:01 Step 1 started, net: btc-testnet
+2018-12-05 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 16:00:01 Step 1 started, net: btc-testnet
+2018-12-05 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 17:00:01 Step 1 started, net: btc-testnet
+2018-12-05 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 18:00:01 Step 1 started, net: btc-testnet
+2018-12-05 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 19:00:01 Step 1 started, net: btc-testnet
+2018-12-05 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 20:00:01 Step 1 started, net: btc-testnet
+2018-12-05 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 21:00:01 Step 1 started, net: btc-testnet
+2018-12-05 21:00:02 Step 1 completed,  zero requests to handle
+2018-12-05 22:00:01 Step 1 started, net: btc-testnet
+2018-12-05 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-05 23:00:01 Step 1 started, net: btc-testnet
+2018-12-05 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 00:00:01 Step 1 started, net: btc-testnet
+2018-12-06 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 01:00:01 Step 1 started, net: btc-testnet
+2018-12-06 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 02:00:02 Step 1 started, net: btc-testnet
+2018-12-06 02:00:02 Step 1 completed,  zero requests to handle
+2018-12-06 03:00:01 Step 1 started, net: btc-testnet
+2018-12-06 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 04:00:01 Step 1 started, net: btc-testnet
+2018-12-06 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 05:00:01 Step 1 started, net: btc-testnet
+2018-12-06 05:00:02 Step 1 completed,  zero requests to handle
+2018-12-06 06:00:01 Step 1 started, net: btc-testnet
+2018-12-06 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 07:00:01 Step 1 started, net: btc-testnet
+2018-12-06 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 08:00:01 Step 1 started, net: btc-testnet
+2018-12-06 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 09:00:01 Step 1 started, net: btc-testnet
+2018-12-06 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 10:00:01 Step 1 started, net: btc-testnet
+2018-12-06 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 11:00:01 Step 1 started, net: btc-testnet
+2018-12-06 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 12:00:01 Step 1 started, net: btc-testnet
+2018-12-06 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 13:00:01 Step 1 started, net: btc-testnet
+2018-12-06 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 14:00:01 Step 1 started, net: btc-testnet
+2018-12-06 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 15:00:01 Step 1 started, net: btc-testnet
+2018-12-06 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 16:00:02 Step 1 started, net: btc-testnet
+2018-12-06 16:00:02 Step 1 completed,  zero requests to handle
+2018-12-06 17:00:01 Step 1 started, net: btc-testnet
+2018-12-06 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 18:00:01 Step 1 started, net: btc-testnet
+2018-12-06 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 19:00:01 Step 1 started, net: btc-testnet
+2018-12-06 19:00:02 Step 1 completed,  zero requests to handle
+2018-12-06 20:00:01 Step 1 started, net: btc-testnet
+2018-12-06 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 21:00:01 Step 1 started, net: btc-testnet
+2018-12-06 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 22:00:01 Step 1 started, net: btc-testnet
+2018-12-06 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-06 23:00:01 Step 1 started, net: btc-testnet
+2018-12-06 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 00:00:02 Step 1 started, net: btc-testnet
+2018-12-07 00:00:02 Step 1 completed,  zero requests to handle
+2018-12-07 01:00:01 Step 1 started, net: btc-testnet
+2018-12-07 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 02:00:01 Step 1 started, net: btc-testnet
+2018-12-07 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 03:00:01 Step 1 started, net: btc-testnet
+2018-12-07 03:00:02 Step 1 completed,  zero requests to handle
+2018-12-07 04:00:01 Step 1 started, net: btc-testnet
+2018-12-07 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 05:00:01 Step 1 started, net: btc-testnet
+2018-12-07 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 06:00:01 Step 1 started, net: btc-testnet
+2018-12-07 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 07:00:01 Step 1 started, net: btc-testnet
+2018-12-07 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 08:00:01 Step 1 started, net: btc-testnet
+2018-12-07 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 09:00:01 Step 1 started, net: btc-testnet
+2018-12-07 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 10:00:01 Step 1 started, net: btc-testnet
+2018-12-07 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 11:00:01 Step 1 started, net: btc-testnet
+2018-12-07 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 12:00:01 Step 1 started, net: btc-testnet
+2018-12-07 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 13:00:01 Step 1 started, net: btc-testnet
+2018-12-07 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 14:00:02 Step 1 started, net: btc-testnet
+2018-12-07 14:00:02 Step 1 completed,  zero requests to handle
+2018-12-07 15:00:01 Step 1 started, net: btc-testnet
+2018-12-07 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 16:00:01 Step 1 started, net: btc-testnet
+2018-12-07 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 17:00:01 Step 1 started, net: btc-testnet
+2018-12-07 17:00:02 Step 1 completed,  zero requests to handle
+2018-12-07 18:00:01 Step 1 started, net: btc-testnet
+2018-12-07 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 19:00:01 Step 1 started, net: btc-testnet
+2018-12-07 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 20:00:01 Step 1 started, net: btc-testnet
+2018-12-07 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 21:00:01 Step 1 started, net: btc-testnet
+2018-12-07 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 22:00:01 Step 1 started, net: btc-testnet
+2018-12-07 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-07 23:00:01 Step 1 started, net: btc-testnet
+2018-12-07 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 00:00:01 Step 1 started, net: btc-testnet
+2018-12-08 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 01:00:01 Step 1 started, net: btc-testnet
+2018-12-08 01:00:02 Step 1 completed,  zero requests to handle
+2018-12-08 02:00:01 Step 1 started, net: btc-testnet
+2018-12-08 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 03:00:01 Step 1 started, net: btc-testnet
+2018-12-08 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 04:00:01 Step 1 started, net: btc-testnet
+2018-12-08 04:00:02 Step 1 completed,  zero requests to handle
+2018-12-08 05:00:01 Step 1 started, net: btc-testnet
+2018-12-08 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 06:00:01 Step 1 started, net: btc-testnet
+2018-12-08 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 07:00:01 Step 1 started, net: btc-testnet
+2018-12-08 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 08:00:01 Step 1 started, net: btc-testnet
+2018-12-08 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 09:00:01 Step 1 started, net: btc-testnet
+2018-12-08 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 10:00:01 Step 1 started, net: btc-testnet
+2018-12-08 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 11:00:01 Step 1 started, net: btc-testnet
+2018-12-08 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 12:00:01 Step 1 started, net: btc-testnet
+2018-12-08 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 13:00:01 Step 1 started, net: btc-testnet
+2018-12-08 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 14:00:01 Step 1 started, net: btc-testnet
+2018-12-08 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 15:00:02 Step 1 started, net: btc-testnet
+2018-12-08 15:00:02 Step 1 completed,  zero requests to handle
+2018-12-08 16:00:01 Step 1 started, net: btc-testnet
+2018-12-08 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 17:00:01 Step 1 started, net: btc-testnet
+2018-12-08 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 18:00:01 Step 1 started, net: btc-testnet
+2018-12-08 18:00:02 Step 1 completed,  zero requests to handle
+2018-12-08 19:00:01 Step 1 started, net: btc-testnet
+2018-12-08 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 20:00:01 Step 1 started, net: btc-testnet
+2018-12-08 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 21:00:01 Step 1 started, net: btc-testnet
+2018-12-08 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 22:00:01 Step 1 started, net: btc-testnet
+2018-12-08 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-08 23:00:01 Step 1 started, net: btc-testnet
+2018-12-08 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 00:00:01 Step 1 started, net: btc-testnet
+2018-12-09 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 01:00:01 Step 1 started, net: btc-testnet
+2018-12-09 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 02:00:02 Step 1 started, net: btc-testnet
+2018-12-09 02:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 03:00:01 Step 1 started, net: btc-testnet
+2018-12-09 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 04:00:01 Step 1 started, net: btc-testnet
+2018-12-09 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 05:00:01 Step 1 started, net: btc-testnet
+2018-12-09 05:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 06:00:01 Step 1 started, net: btc-testnet
+2018-12-09 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 07:00:01 Step 1 started, net: btc-testnet
+2018-12-09 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 08:00:01 Step 1 started, net: btc-testnet
+2018-12-09 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 09:00:01 Step 1 started, net: btc-testnet
+2018-12-09 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 10:00:01 Step 1 started, net: btc-testnet
+2018-12-09 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 11:00:01 Step 1 started, net: btc-testnet
+2018-12-09 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 12:00:01 Step 1 started, net: btc-testnet
+2018-12-09 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 13:00:02 Step 1 started, net: btc-testnet
+2018-12-09 13:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 14:00:01 Step 1 started, net: btc-testnet
+2018-12-09 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 15:00:01 Step 1 started, net: btc-testnet
+2018-12-09 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 16:00:01 Step 1 started, net: btc-testnet
+2018-12-09 16:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 17:00:01 Step 1 started, net: btc-testnet
+2018-12-09 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 18:00:01 Step 1 started, net: btc-testnet
+2018-12-09 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 19:00:01 Step 1 started, net: btc-testnet
+2018-12-09 19:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 20:00:01 Step 1 started, net: btc-testnet
+2018-12-09 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 21:00:01 Step 1 started, net: btc-testnet
+2018-12-09 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-09 22:00:01 Step 1 started, net: btc-testnet
+2018-12-09 22:00:02 Step 1 completed,  zero requests to handle
+2018-12-09 23:00:01 Step 1 started, net: btc-testnet
+2018-12-09 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 00:00:01 Step 1 started, net: btc-testnet
+2018-12-10 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 01:00:01 Step 1 started, net: btc-testnet
+2018-12-10 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 02:00:01 Step 1 started, net: btc-testnet
+2018-12-10 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 03:00:01 Step 1 started, net: btc-testnet
+2018-12-10 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 04:00:01 Step 1 started, net: btc-testnet
+2018-12-10 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 05:00:01 Step 1 started, net: btc-testnet
+2018-12-10 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 06:00:01 Step 1 started, net: btc-testnet
+2018-12-10 06:00:02 Step 1 completed,  zero requests to handle
+2018-12-10 07:00:01 Step 1 started, net: btc-testnet
+2018-12-10 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 08:00:01 Step 1 started, net: btc-testnet
+2018-12-10 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 09:00:01 Step 1 started, net: btc-testnet
+2018-12-10 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 10:00:01 Step 1 started, net: btc-testnet
+2018-12-10 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 11:00:01 Step 1 started, net: btc-testnet
+2018-12-10 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 12:00:01 Step 1 started, net: btc-testnet
+2018-12-10 12:00:02 Step 1 completed,  zero requests to handle
+2018-12-10 13:00:01 Step 1 started, net: btc-testnet
+2018-12-10 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 14:00:01 Step 1 started, net: btc-testnet
+remote query id=13 INSERT OK, hash: 5b13ee264a28ba817ef17a2079a1674943c31c07f0684f39518c263e3b797e08
+2018-12-10 14:00:01 Step 1 completed, nb requests : 1, tx : 46a2375e46f3c5977999523ec4b4020c52aeafdbc3b91e297e3a349ed5e77a97, duration :0.129 seconds 
+2018-12-10 15:00:02 Step 1 started, net: btc-testnet
+2018-12-10 15:00:02 Step 1 completed,  zero requests to handle
+2018-12-10 16:00:01 Step 1 started, net: btc-testnet
+2018-12-10 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 17:00:01 Step 1 started, net: btc-testnet
+2018-12-10 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 18:00:01 Step 1 started, net: btc-testnet
+2018-12-10 18:00:03 Step 1 completed,  zero requests to handle
+2018-12-10 19:00:01 Step 1 started, net: btc-testnet
+2018-12-10 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 20:00:01 Step 1 started, net: btc-testnet
+2018-12-10 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 21:00:01 Step 1 started, net: btc-testnet
+2018-12-10 21:00:02 Step 1 completed,  zero requests to handle
+2018-12-10 22:00:01 Step 1 started, net: btc-testnet
+2018-12-10 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-10 23:00:01 Step 1 started, net: btc-testnet
+2018-12-10 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 00:00:02 Step 1 started, net: btc-testnet
+2018-12-11 00:00:02 Step 1 completed,  zero requests to handle
+2018-12-11 01:00:01 Step 1 started, net: btc-testnet
+2018-12-11 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 02:00:01 Step 1 started, net: btc-testnet
+2018-12-11 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 03:00:01 Step 1 started, net: btc-testnet
+2018-12-11 03:00:02 Step 1 completed,  zero requests to handle
+2018-12-11 04:00:01 Step 1 started, net: btc-testnet
+2018-12-11 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 05:00:01 Step 1 started, net: btc-testnet
+2018-12-11 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 06:00:01 Step 1 started, net: btc-testnet
+2018-12-11 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 07:00:01 Step 1 started, net: btc-testnet
+2018-12-11 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 08:00:01 Step 1 started, net: btc-testnet
+2018-12-11 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 09:00:01 Step 1 started, net: btc-testnet
+2018-12-11 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 10:00:01 Step 1 started, net: btc-testnet
+2018-12-11 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 11:00:02 Step 1 started, net: btc-testnet
+2018-12-11 11:00:02 Step 1 completed,  zero requests to handle
+2018-12-11 12:00:01 Step 1 started, net: btc-testnet
+2018-12-11 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 13:00:01 Step 1 started, net: btc-testnet
+2018-12-11 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 14:00:02 Step 1 started, net: btc-testnet
+2018-12-11 14:00:02 Step 1 completed,  zero requests to handle
+2018-12-11 15:00:01 Step 1 started, net: btc-testnet
+2018-12-11 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 16:00:01 Step 1 started, net: btc-testnet
+2018-12-11 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 17:00:01 Step 1 started, net: btc-testnet
+2018-12-11 17:00:02 Step 1 completed,  zero requests to handle
+2018-12-11 18:00:01 Step 1 started, net: btc-testnet
+2018-12-11 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 19:00:01 Step 1 started, net: btc-testnet
+2018-12-11 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 20:00:01 Step 1 started, net: btc-testnet
+2018-12-11 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 21:00:01 Step 1 started, net: btc-testnet
+2018-12-11 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 22:00:01 Step 1 started, net: btc-testnet
+2018-12-11 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-11 23:00:01 Step 1 started, net: btc-testnet
+2018-12-11 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 00:00:01 Step 1 started, net: btc-testnet
+2018-12-12 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 01:00:01 Step 1 started, net: btc-testnet
+2018-12-12 01:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 02:00:01 Step 1 started, net: btc-testnet
+2018-12-12 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 03:00:01 Step 1 started, net: btc-testnet
+2018-12-12 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 04:00:01 Step 1 started, net: btc-testnet
+2018-12-12 04:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 05:00:01 Step 1 started, net: btc-testnet
+2018-12-12 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 06:00:01 Step 1 started, net: btc-testnet
+2018-12-12 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 07:00:01 Step 1 started, net: btc-testnet
+2018-12-12 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 08:00:01 Step 1 started, net: btc-testnet
+2018-12-12 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 09:00:01 Step 1 started, net: btc-testnet
+2018-12-12 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 10:00:01 Step 1 started, net: btc-testnet
+2018-12-12 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 11:00:01 Step 1 started, net: btc-testnet
+2018-12-12 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 12:00:02 Step 1 started, net: btc-testnet
+2018-12-12 12:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 13:00:01 Step 1 started, net: btc-testnet
+2018-12-12 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 14:00:01 Step 1 started, net: btc-testnet
+2018-12-12 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 15:00:02 Step 1 started, net: btc-testnet
+2018-12-12 15:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 16:00:01 Step 1 started, net: btc-testnet
+2018-12-12 16:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 17:00:01 Step 1 started, net: btc-testnet
+2018-12-12 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 18:00:01 Step 1 started, net: btc-testnet
+2018-12-12 18:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 19:00:01 Step 1 started, net: btc-testnet
+2018-12-12 19:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 20:00:01 Step 1 started, net: btc-testnet
+2018-12-12 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 21:00:01 Step 1 started, net: btc-testnet
+2018-12-12 21:00:02 Step 1 completed,  zero requests to handle
+2018-12-12 22:00:01 Step 1 started, net: btc-testnet
+2018-12-12 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-12 23:00:01 Step 1 started, net: btc-testnet
+2018-12-12 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 00:00:01 Step 1 started, net: btc-testnet
+2018-12-13 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 01:00:01 Step 1 started, net: btc-testnet
+2018-12-13 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 02:00:02 Step 1 started, net: btc-testnet
+2018-12-13 02:00:02 Step 1 completed,  zero requests to handle
+2018-12-13 03:00:01 Step 1 started, net: btc-testnet
+2018-12-13 03:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 04:00:01 Step 1 started, net: btc-testnet
+2018-12-13 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 05:00:01 Step 1 started, net: btc-testnet
+2018-12-13 05:00:02 Step 1 completed,  zero requests to handle
+2018-12-13 06:00:01 Step 1 started, net: btc-testnet
+2018-12-13 06:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 07:00:01 Step 1 started, net: btc-testnet
+2018-12-13 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 08:00:01 Step 1 started, net: btc-testnet
+2018-12-13 08:00:03 Step 1 completed,  zero requests to handle
+2018-12-13 09:00:01 Step 1 started, net: btc-testnet
+2018-12-13 09:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 10:00:01 Step 1 started, net: btc-testnet
+2018-12-13 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 11:00:01 Step 1 started, net: btc-testnet
+2018-12-13 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 12:00:01 Step 1 started, net: btc-testnet
+2018-12-13 12:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 13:00:02 Step 1 started, net: btc-testnet
+2018-12-13 13:00:02 Step 1 completed,  zero requests to handle
+2018-12-13 14:00:01 Step 1 started, net: btc-testnet
+2018-12-13 14:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 15:00:01 Step 1 started, net: btc-testnet
+2018-12-13 15:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 16:00:01 Step 1 started, net: btc-testnet
+2018-12-13 16:00:02 Step 1 completed,  zero requests to handle
+2018-12-13 17:00:01 Step 1 started, net: btc-testnet
+2018-12-13 17:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 18:00:01 Step 1 started, net: btc-testnet
+2018-12-13 18:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 19:00:01 Step 1 started, net: btc-testnet
+2018-12-13 19:00:02 Step 1 completed,  zero requests to handle
+2018-12-13 20:00:01 Step 1 started, net: btc-testnet
+2018-12-13 20:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 21:00:01 Step 1 started, net: btc-testnet
+2018-12-13 21:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 22:00:01 Step 1 started, net: btc-testnet
+2018-12-13 22:00:01 Step 1 completed,  zero requests to handle
+2018-12-13 23:00:01 Step 1 started, net: btc-testnet
+2018-12-13 23:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 00:00:01 Step 1 started, net: btc-testnet
+2018-12-14 00:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 01:00:01 Step 1 started, net: btc-testnet
+2018-12-14 01:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 02:00:01 Step 1 started, net: btc-testnet
+2018-12-14 02:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 03:00:01 Step 1 started, net: btc-testnet
+2018-12-14 03:00:02 Step 1 completed,  zero requests to handle
+2018-12-14 04:00:01 Step 1 started, net: btc-testnet
+2018-12-14 04:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 05:00:01 Step 1 started, net: btc-testnet
+2018-12-14 05:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 06:00:01 Step 1 started, net: btc-testnet
+2018-12-14 06:00:02 Step 1 completed,  zero requests to handle
+2018-12-14 07:00:01 Step 1 started, net: btc-testnet
+2018-12-14 07:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 08:00:01 Step 1 started, net: btc-testnet
+2018-12-14 08:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 09:00:01 Step 1 started, net: btc-testnet
+2018-12-14 09:00:02 Step 1 completed,  zero requests to handle
+2018-12-14 10:00:01 Step 1 started, net: btc-testnet
+2018-12-14 10:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 11:00:01 Step 1 started, net: btc-testnet
+2018-12-14 11:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 12:00:01 Step 1 started, net: btc-testnet
+2018-12-14 12:00:02 Step 1 completed,  zero requests to handle
+2018-12-14 13:00:01 Step 1 started, net: btc-testnet
+2018-12-14 13:00:01 Step 1 completed,  zero requests to handle
+2018-12-14 14:00:01 Step 1 started, net: btc-testnet
+remote query id=14 INSERT OK, hash: 77c3df62f56ea88113351c9705b67006eab02df8491f132307dd977a7b97bc98
+2018-12-14 14:00:01 Step 1 completed, nb requests : 1, tx : 792e096effbb9168623bd2e0642b2c26d476e912cb82fd4cf15ba0e638d86a47, duration :0.112 seconds 
+2018-12-14 15:00:01 Step 1 started, net: btc-testnet
+remote query id=15 INSERT OK, hash: toto
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 16:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 17:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 18:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 19:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 20:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 21:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 22:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-14 23:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 00:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 01:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 02:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 03:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 04:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 05:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 06:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 07:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 08:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 09:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 10:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 11:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 12:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 13:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 14:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 15:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 16:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 17:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 18:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 19:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 20:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 21:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 22:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-15 23:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 00:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 01:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 02:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 03:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 04:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 05:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 06:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 07:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 08:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 09:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 10:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 11:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 12:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 13:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 14:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 15:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 16:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 17:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 18:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 19:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 20:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 21:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 22:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-16 23:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 00:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 01:00:02 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 02:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 03:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 04:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 05:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 06:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 07:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 08:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found
+2018-12-17 09:00:01 Step 1 started, net: btc-testnet
+Traceback (most recent call last):
+  File "/home/ulysse/technoprimates/palimpseste/step1.py", line 38, in <module>
+    raw_tx = jc_ops.create(unhexlify(root_hash), NET)
+TypeError: Non-hexadecimal digit found

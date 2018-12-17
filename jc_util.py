@@ -42,7 +42,7 @@ def allongement(list_lines):
     
 def proof_start(hash):
     # format : '{"hashdoc":"---"},'
-    return("[{\"hashdoc\":\""+hash+"\"},")
+    return("[{\"mix\":\""+hash+"\"},")
     
 def proof_part(tier, base, offset, tree):
 # matching previous or following hash in current tier, depending on parity of the offset in current tier 
